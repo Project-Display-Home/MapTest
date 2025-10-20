@@ -6,7 +6,7 @@
 ***
 
 **Env dependencies:**
-1. **Vivado 2024,Vivado 2025**
+1. **Vivado Vivado 2025**
 2. **Yosys 0.30 + 48**
 3. **Icarus Verilog 13.0**
 4. **Verismith 1.0.0.2**
